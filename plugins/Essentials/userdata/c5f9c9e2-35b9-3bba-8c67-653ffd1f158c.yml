@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.93.59.152
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1791319731304
+  login: 1791307786727
+money: '0'
+last-account-name: Maerusen
+logoutlocation:
+  world: 2f777b64-03a3-40c9-8880-324844d189a5
+  world-name: world
+  x: 389.31813610804636
+  y: 62.0
+  z: 62.7240034652404
+  yaw: 109.94021606445312
+  pitch: 37.35015869140625

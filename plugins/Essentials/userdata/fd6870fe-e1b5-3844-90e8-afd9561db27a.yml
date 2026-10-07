@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.93.49.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1791310097762
+  login: 1791308883109
+money: '0'
+last-account-name: Copper
+logoutlocation:
+  world: 2f777b64-03a3-40c9-8880-324844d189a5
+  world-name: world
+  x: 386.1566455510857
+  y: 67.36967148615629
+  z: 55.32647853235596
+  yaw: 85.64434814453125
+  pitch: 74.24989318847656
