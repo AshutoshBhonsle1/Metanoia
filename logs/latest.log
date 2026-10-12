@@ -1,5 +1,5 @@
-[15:16:41] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.19.5
-[15:16:42] [main/INFO]: Loading 86 mods:
+[12:01:53] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.19.5
+[12:01:53] [main/INFO]: Loading 86 mods:
 	- create 6.0.8.1+build.1744-mc1.20.1
 	   |-- com_google_code_findbugs_jsr305 3.0.2
 	   |-- forgeconfigapiport 8.0.0
@@ -104,89 +104,66 @@
 	- fabric-permissions-api-v0 0.3.1
 	- fabricloader 0.19.5
 	   \-- mixinextras 0.5.5
-	- java 17
+	- java 25
 	- luckperms 5.4.102
 	- minecraft 1.20.1
 	- vanilla-permissions 0.3.5+1.20.1
 	- worldedit 7.2.15+6463-5ca4dff
-[15:16:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/acer/Desktop/Metanoia-main/Metanoia-main/libraries/net/fabricmc/sponge-mixin/0.17.4+mixin.0.8.7/sponge-mixin-0.17.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[15:16:43] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
-[15:16:43] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
-[15:16:43] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
-[15:16:43] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
-[15:16:43] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[15:16:43] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[15:16:44] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/client/gui/LargeMapScreen (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/client/gui/LargeMapScreen)
-[15:16:44] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.client.gui.LargeMapScreen was not found create.mixins.json:compat.ftbchunks.LargeMapScreenAccessor from mod create
-[15:16:44] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/client/gui/RegionMapPanel (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/client/gui/RegionMapPanel)
-[15:16:44] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.client.gui.RegionMapPanel was not found create.mixins.json:compat.ftbchunks.RegionMapPanelAccessor from mod create
-[15:16:44] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.5).
-[15:17:00] [main/INFO]: Create 6.0.8.1 initializing!
-[15:17:05] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3c56fc17]
-[15:17:05] [main/INFO]: WorldEdit for Fabric (version 7.2.15+6463-5ca4dff) is loaded
-[15:17:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:17:06] [main/INFO]: Created 157 recipes which will be injected into the game
-[15:17:06] [main/INFO]: Created 0 tags which will be injected into the game
-[15:17:08] [main/INFO]: Loaded Fabric Permissions
-[15:17:08] [main/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[15:17:09] [main/INFO]: Loaded 22 recipes
-[15:17:10] [main/INFO]: Loaded 2421 advancements
-[15:17:11] [main/INFO]: Applied 111 biome modifications to 58 of 64 new biomes in 15.64 ms
-[15:17:11] [Server thread/INFO]:         __    
-[15:17:11] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.102
-[15:17:11] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.92.12+1.20.1
-[15:17:11] [Server thread/INFO]: 
-[15:17:11] [Server thread/INFO]: Loading configuration...
-[15:17:12] [Server thread/INFO]: Loading storage provider... [H2]
-[15:17:12] [Server thread/INFO]: Loading internal permission managers...
-[15:17:12] [Server thread/INFO]: Performing initial data load...
-[15:17:12] [Server thread/INFO]: Successfully enabled. (took 885ms)
-[15:17:12] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[15:17:12] [Server thread/INFO]: Loading properties
-[15:17:12] [Server thread/INFO]: Default game type: SURVIVAL
-[15:17:12] [Server thread/INFO]: Generating keypair
-[15:17:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:17:12] [Server thread/INFO]: Using default channel type
-[15:17:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:17:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:17:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:17:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:17:13] [Server thread/INFO]: Preparing level "world"
-[15:17:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:17:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:17:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:17:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:17:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:17:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:17:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:17:26] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[15:17:26] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[15:17:26] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[15:17:28] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[15:17:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:17:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:17:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:17:28] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:17:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:17:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:17:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:17:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:17:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:17:28] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[15:17:29] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:17:29] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:17:30] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[15:17:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:17:31] [Worker-Main-2/INFO]: Preparing spawn area: 5%
-[15:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 24%
-[15:17:32] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[15:17:32] [Worker-Main-4/INFO]: Preparing spawn area: 77%
-[15:17:33] [Server thread/INFO]: Time elapsed: 14488 ms
-[15:17:33] [Server thread/INFO]: Done (19.679s)! For help, type "help"
-[18:39:05] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for blankslope
+[12:01:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/ashutosh/minecraft/studymaterial/Metanoia/libraries/net/fabricmc/sponge-mixin/0.17.4+mixin.0.8.7/sponge-mixin-0.17.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[12:01:54] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[12:01:54] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[12:01:54] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[12:01:54] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[12:01:54] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[12:01:54] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[12:01:54] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/client/gui/LargeMapScreen (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/client/gui/LargeMapScreen)
+[12:01:54] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.client.gui.LargeMapScreen was not found create.mixins.json:compat.ftbchunks.LargeMapScreenAccessor from mod create
+[12:01:54] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/client/gui/RegionMapPanel (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/client/gui/RegionMapPanel)
+[12:01:54] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.client.gui.RegionMapPanel was not found create.mixins.json:compat.ftbchunks.RegionMapPanelAccessor from mod create
+[12:01:54] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.5).
+[12:01:59] [main/INFO]: Create 6.0.8.1 initializing!
+[12:02:02] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@222749ec]
+[12:02:02] [main/INFO]: WorldEdit for Fabric (version 7.2.15+6463-5ca4dff) is loaded
+[12:02:02] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:02:02] [main/INFO]: Created 157 recipes which will be injected into the game
+[12:02:02] [main/INFO]: Created 0 tags which will be injected into the game
+[12:02:03] [main/INFO]: Loaded Fabric Permissions
+[12:02:03] [main/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[12:02:04] [main/INFO]: Loaded 22 recipes
+[12:02:04] [main/INFO]: Loaded 2421 advancements
+[12:02:05] [main/INFO]: Applied 111 biome modifications to 58 of 64 new biomes in 9.251 ms
+[12:02:05] [Server thread/INFO]:         __    
+[12:02:05] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.102
+[12:02:05] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.92.12+1.20.1
+[12:02:05] [Server thread/INFO]: 
+[12:02:05] [Server thread/INFO]: Loading configuration...
+[12:02:05] [Server thread/INFO]: Loading storage provider... [H2]
+[12:02:05] [Server thread/INFO]: Loading internal permission managers...
+[12:02:05] [Server thread/INFO]: Performing initial data load...
+[12:02:05] [Server thread/INFO]: Successfully enabled. (took 616ms)
+[12:02:05] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[12:02:05] [Server thread/INFO]: Loading properties
+[12:02:05] [Server thread/INFO]: Default game type: SURVIVAL
+[12:02:05] [Server thread/INFO]: Generating keypair
+[12:02:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:02:05] [Server thread/INFO]: Using epoll channel type
+[12:02:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:02:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:02:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:02:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:02:06] [Server thread/INFO]: Preparing level "world"
+[12:02:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:02:08] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[12:02:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:02:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:02:08] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:02:09] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[12:02:09] [Worker-Main-14/INFO]: Preparing spawn area: 25%
+[12:02:10] [Server thread/INFO]: Time elapsed: 2911 ms
+[12:02:10] [Server thread/INFO]: Done (4.008s)! For help, type "help"
+[12:02:13] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for Maerusen
 java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
 	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
 	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
 	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
@@ -200,10 +177,10 @@ java.lang.NullPointerException: uuid
 	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[18:39:06] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for blankslope
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[12:02:13] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for Maerusen
 java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
 	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
 	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
 	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
@@ -217,10 +194,10 @@ java.lang.NullPointerException: uuid
 	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[18:39:06] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for blankslope
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[12:02:13] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for Maerusen
 java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
 	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
 	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
 	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
@@ -234,33 +211,16 @@ java.lang.NullPointerException: uuid
 	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[18:39:06] [Server thread/INFO]: blankslope[/127.0.0.1:63060] logged in with entity id 271 at (-37.54431236255902, 73.0, 6.626737725380314)
-[18:39:07] [Server thread/INFO]: blankslope joined the game
-[18:39:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[18:39:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
-[18:41:41] [Server thread/WARN]: blankslope moved too quickly! -10.4976882694491,-0.3783089660480812,-0.7420433508808939
-[18:41:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4222ms or 84 ticks behind
-[18:41:47] [Server thread/WARN]: blankslope moved too quickly! -8.069507204635158,0.0,6.2902288985488894
-[18:41:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:55:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[18:56:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
-[18:57:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5855ms or 117 ticks behind
-[18:57:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[18:58:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
-[18:58:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
-[18:58:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
-[18:59:05] [Server thread/WARN]: blankslope moved too quickly! 5.587292602546256,3.3750001341104507,8.047904365908309
-[18:59:11] [Server thread/WARN]: blankslope moved too quickly! 9.309436224773947,3.3750001341104507,-3.039573581229476
-[18:59:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
-[18:59:42] [Server thread/WARN]: blankslope moved too quickly! 5.551650132416466,0.0,-9.351575762401012
-[19:00:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[19:00:11] [Server thread/WARN]: blankslope moved too quickly! -6.482882334779653,-3.7492699271766696,-8.040663266082134
-[19:01:00] [Server thread/INFO]: blankslope lost connection: Disconnected
-[19:01:00] [Server thread/INFO]: blankslope left the game
-[19:01:08] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for blankslope
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[12:02:14] [Server thread/INFO]: Maerusen[/127.93.59.152:46101] logged in with entity id 147 at (-406.3567915303879, 137.3763145423804, -394.5985950828219)
+[12:02:14] [Server thread/INFO]: Maerusen joined the game
+[12:07:00] [Server thread/INFO]: [Maerusen: Set the time to 1000]
+[12:20:45] [Server thread/INFO]: [Maerusen: Set the time to 1000]
+[12:28:49] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[12:28:49] [Server thread/INFO]: Maerusen left the game
+[12:29:57] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for Maerusen
 java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
 	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
 	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
 	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
@@ -274,10 +234,10 @@ java.lang.NullPointerException: uuid
 	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[19:01:08] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for blankslope
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[12:29:57] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for Maerusen
 java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
 	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
 	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
 	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
@@ -291,10 +251,10 @@ java.lang.NullPointerException: uuid
 	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[19:01:08] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for blankslope
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[12:29:57] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for Maerusen
 java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
 	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
 	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
 	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
@@ -308,307 +268,22 @@ java.lang.NullPointerException: uuid
 	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[19:01:08] [Server thread/INFO]: blankslope[/127.0.0.1:51413] logged in with entity id 6078 at (-71.95346713754063, 72.71468254658069, -12.932802297005257)
-[19:01:09] [Server thread/INFO]: blankslope joined the game
-[19:01:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
-[19:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3334ms or 66 ticks behind
-[19:02:36] [Server thread/WARN]: blankslope moved too quickly! 9.880305361361337,3.7499927900579593,-2.743576357642546
-[19:02:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[19:02:41] [Server thread/WARN]: blankslope moved too quickly! -7.272020866604095,0.0,7.5418952051069965
-[19:09:32] [Server thread/INFO]: blankslope lost connection: Disconnected
-[19:09:32] [Server thread/INFO]: blankslope left the game
-[20:35:47] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[20:35:47] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[20:35:47] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[20:35:47] [Server thread/INFO]: Maerusen[/127.93.59.152:56499] logged in with entity id 8168 at (-70.27119514989447, 73.00063554902955, -9.622200266715447)
-[20:35:48] [Server thread/INFO]: Maerusen joined the game
-[20:36:14] [Server thread/INFO]: [Not Secure] <Maerusen> Gabbar is back
-[20:59:21] [Server thread/INFO]: [Not Secure] <Maerusen> afk
-[21:26:07] [Server thread/WARN]: Maerusen moved too quickly! -5.955715026865903,0.0,-8.221136932418062
-[21:26:33] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for blankslope
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[21:26:33] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for blankslope
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[21:26:33] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for blankslope
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[21:26:33] [Server thread/INFO]: blankslope[/127.0.0.1:61875] logged in with entity id 18149 at (-8.35667365030139, 88.92333170211488, 0.7999671173518487)
-[21:26:33] [Server thread/INFO]: blankslope joined the game
-[21:26:46] [Server thread/INFO]: [Not Secure] <Maerusen> yo
-[21:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
-[21:26:55] [Server thread/WARN]: blankslope moved too quickly! -10.429189393993362,0.0,-0.1611764881075084
-[21:26:56] [Server thread/INFO]: [Not Secure] <Maerusen> sev leke aya me
-[21:26:58] [Server thread/WARN]: blankslope moved too quickly! -10.702835695362666,0.0,1.3674884866959702
-[21:27:08] [Server thread/INFO]: [Not Secure] <blankslope> kidr hai
-[21:27:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11988ms or 239 ticks behind
-[21:27:29] [Server thread/INFO]: [Not Secure] <Maerusen> snow world jidhr kho gye the
-[21:27:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4301ms or 86 ticks behind
-[21:27:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3719ms or 74 ticks behind
-[21:28:08] [Server thread/INFO]: [Not Secure] <Maerusen> -496,173,-455
-[21:28:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[21:28:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
-[21:28:47] [Server thread/WARN]: blankslope moved too quickly! 1.4740440217878472,0.0,-10.09538095741891
-[21:28:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[21:29:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8094ms or 161 ticks behind
-[21:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2719ms or 54 ticks behind
-[21:30:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[21:32:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[21:32:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[21:32:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3930ms or 78 ticks behind
-[21:33:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
-[21:34:13] [Server thread/WARN]: blankslope moved too quickly! -0.027901258347355906,0.0,-10.84298892695567
-[21:34:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[21:34:30] [Server thread/WARN]: blankslope moved too quickly! 0.005449439036624426,0.0,-10.869311528734016
-[21:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2281ms or 45 ticks behind
-[21:34:39] [Server thread/WARN]: blankslope moved too quickly! 0.005543393804146035,0.0,-10.888716939661663
-[21:35:09] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[21:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[21:37:11] [Server thread/INFO]: [Not Secure] <blankslope> ky bnane waaal
-[21:37:24] [Server thread/INFO]: [Not Secure] <Maerusen> pagoda
-[21:39:30] [Server thread/INFO]: [Not Secure] <blankslope> aise hi hawa mein bana rha ky
-[21:39:49] [Server thread/INFO]: [Not Secure] <Maerusen> nhi
-[21:40:07] [Server thread/INFO]: [Not Secure] <blankslope> pagoda mtlb
-[21:40:32] [Server thread/INFO]: [Not Secure] <Maerusen> japanese tower
-[21:40:41] [Server thread/INFO]: [Not Secure] <Maerusen> ata dadaji se baat
-[21:40:47] [Server thread/INFO]: [Not Secure] <blankslope> tk
-[21:41:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[21:41:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3944ms or 78 ticks behind
-[21:41:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5737ms or 114 ticks behind
-[21:41:58] [Server thread/INFO]: blankslope lost connection: Disconnected
-[21:41:58] [Server thread/INFO]: blankslope left the game
-[21:51:45] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for blankslope
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[21:51:45] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for blankslope
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[21:51:45] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for blankslope
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:842) ~[?:?]
-[21:51:46] [Server thread/INFO]: blankslope[/127.0.0.1:61646] logged in with entity id 25324 at (-126.88112002311375, 111.12581487649511, -493.70730718778236)
-[21:51:46] [Server thread/INFO]: blankslope joined the game
-[21:52:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[21:52:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7440ms or 148 ticks behind
-[21:53:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[21:53:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
-[21:54:11] [Server thread/WARN]: blankslope moved too quickly! -10.881992896294037,0.10696377856342565,0.0022549497879253977
-[21:54:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3571ms or 71 ticks behind
-[21:54:41] [Server thread/INFO]: [Not Secure] <Maerusen> jomaaash
-[21:54:53] [Server thread/INFO]: [Not Secure] <blankslope> ye apna world mein itna randomly hawa mein kyu spawn hua hai
-[21:55:02] [Server thread/INFO]: [Not Secure] <Maerusen> ikr
-[21:55:16] [Server thread/INFO]: [Not Secure] <Maerusen> boht blocks floating dikh rha
-[21:55:24] [Server thread/INFO]: [Not Secure] <blankslope> nikaaloon?
-[21:55:30] [Server thread/INFO]: [Not Secure] <blankslope> ye right waala
-[21:55:31] [Server thread/INFO]: [Not Secure] <Maerusen> naa issok
-[21:56:58] [Server thread/INFO]: [Not Secure] <Maerusen> kuch toh ganit hil gaya hai
-[21:57:54] [Server thread/INFO]: [Not Secure] <blankslope> same bana rha
-[21:58:14] [Server thread/INFO]: [Not Secure] <Maerusen> naa kuch placement error hai
-[21:58:47] [Server thread/INFO]: [Not Secure] <blankslope> mera bhi
-[21:59:27] [Server thread/INFO]: [Not Secure] <Maerusen> lol
-[22:01:17] [Server thread/INFO]: [Not Secure] <blankslope> itna ky contemplate kr rha hai
-[22:01:28] [Server thread/INFO]: [Not Secure] <Maerusen> numbers aint matching
-[22:01:31] [Server thread/INFO]: [Not Secure] <Maerusen> gaps
-[22:02:17] [Server thread/INFO]: [Not Secure] <blankslope> world edit use krke mein blocks tod skta hoon?
-[22:02:26] [Server thread/INFO]: [Not Secure] <blankslope> and blocks place rk skta hoon?
-[22:03:10] [Server thread/INFO]: [Not Secure] <Maerusen> YES
-[22:05:50] [Server thread/INFO]: Maerusen has made the advancement [Monster Hunter]
-[22:07:01] [Server thread/INFO]: [blankslope: Set the time to 1000]
-[22:07:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[22:08:41] [Server thread/INFO]: [Not Secure] <Maerusen> bhai lakdi jal gaya na agar
-[22:08:50] [Server thread/INFO]: [Not Secure] <blankslope> aag nhihai
-[22:09:12] [Server thread/INFO]: [Not Secure] <blankslope> ab jalega
-[22:10:28] [Server thread/INFO]: [Not Secure] <Maerusen> brutality
-[22:10:32] [Server thread/INFO]: blankslope has made the advancement [Monster Hunter]
-[22:10:32] [Server thread/INFO]: blankslope has made the advancement [Fwoomp!]
-[22:10:32] [Server thread/INFO]: [Not Secure] <Maerusen> i see u
-[22:10:56] [Server thread/INFO]: [Not Secure] <blankslope> abhi sausage khaaya hoga
-[22:11:05] [Server thread/INFO]: [Not Secure] <blankslope> aur brutality bolta hai
-[22:13:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
-[22:14:59] [Server thread/INFO]: [Not Secure] <blankslope> mein kuch kroon
-[22:15:10] [Server thread/INFO]: [Not Secure] <Maerusen> naa issok
-[22:15:17] [Server thread/INFO]: [Not Secure] <Maerusen> me video dekh ke kar rha
-[22:15:20] [Server thread/INFO]: [Not Secure] <Maerusen> thanks
-[22:15:28] [Server thread/INFO]: [Not Secure] <Maerusen> tu bhi bana kuch
-[22:15:46] [Server thread/INFO]: [Not Secure] <blankslope> mekoacha koi locn chahiye
-[22:16:00] [Server thread/INFO]: [Not Secure] <Maerusen> dhond na
-[22:16:03] [Server thread/INFO]: [Not Secure] <blankslope> ek aisa jagh jo all 4 sides se mountain se locked ho
-[22:16:11] [Server thread/INFO]: [Not Secure] <Maerusen> idhr hi hai niche
-[22:16:26] [Server thread/INFO]: [Not Secure] <Maerusen> yes vohi
-[22:16:46] [Server thread/INFO]: [Not Secure] <blankslope> ye sirf 3 sides covered hai
-[22:17:06] [Server thread/INFO]: [Not Secure] <Maerusen> 4th side fill karde?
-[22:17:11] [Server thread/INFO]: [Not Secure] <Maerusen> world edit se
-[22:17:17] [Server thread/INFO]: [Not Secure] <blankslope> thda bada bhi chahiye
-[22:17:50] [Server thread/INFO]: [Not Secure] <Maerusen> call pe anay?
-[22:17:57] [Server thread/INFO]: [Not Secure] <blankslope> abhi sone jaayega
-[22:18:04] [Server thread/INFO]: [Not Secure] <Maerusen> hein
-[22:18:09] [Server thread/INFO]: [Not Secure] <Maerusen> itna jaldi
-[22:18:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[22:18:25] [Server thread/INFO]: [Not Secure] <blankslope> 10.20 ho gya
-[22:18:27] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[22:18:54] [Server thread/INFO]: [Not Secure] <Maerusen> toh push kardena
-[22:19:02] [Server thread/INFO]: [Not Secure] <Maerusen> me fir pull karke khelta
-[22:19:12] [Server thread/INFO]: [Not Secure] <blankslope> nhi chaalu rkh dooonga
-[22:19:25] [Server thread/INFO]: [Not Secure] <Maerusen> naaa fukat light net kharcha
-[22:19:33] [Server thread/INFO]: [Not Secure] <Maerusen> me karta pull dw
-[22:19:37] [Server thread/INFO]: [Not Secure] <blankslope> hein
-[22:19:59] [Server thread/INFO]: [Not Secure] <blankslope> phir uss din jaise pull krne nhi hua meko tho khtm
-[22:20:34] [Server thread/INFO]: [Not Secure] <Maerusen> but uss din bhi kiya tha tune pull, bhul gya
-[22:20:44] [Server thread/INFO]: [Not Secure] <Maerusen> train intach aayi thi
-[22:20:51] [Server thread/INFO]: [Not Secure] <Maerusen> intact
-[22:21:55] [Server thread/INFO]: [Not Secure] <blankslope> sant dnyaneshwar bann rha
-[22:27:12] [Server thread/INFO]: [Not Secure] <Maerusen> SUNNA
-[22:27:21] [Server thread/INFO]: [Not Secure] <Maerusen> me khana khaane jaunga
-[22:27:35] [Server thread/INFO]: [Not Secure] <Maerusen> tera mann kare tab band karke push karde
-[22:28:19] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[22:28:19] [Server thread/INFO]: Maerusen left the game
-[22:28:32] [Server thread/INFO]: blankslope lost connection: Disconnected
-[22:28:32] [Server thread/INFO]: blankslope left the game
-[22:30:29] [Server thread/INFO]: Stopping the server
-[22:30:29] [Server thread/INFO]: Starting shutdown process...
-[22:30:29] [Server thread/INFO]: Closing storage...
-[22:30:30] [Server thread/INFO]: Goodbye!
-[22:30:30] [Server thread/INFO]: Stopping server
-[22:30:30] [Server thread/INFO]: Saving players
-[22:30:30] [Server thread/INFO]: Saving worlds
-[22:30:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:30:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:30:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[12:29:57] [Server thread/INFO]: Maerusen[/127.93.59.152:36459] logged in with entity id 1854 at (-517.440276050801, 184.0764269972766, -454.04083708595493)
+[12:29:57] [Server thread/INFO]: Maerusen joined the game
+[12:40:03] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[12:40:03] [Server thread/INFO]: Maerusen left the game
+[12:40:13] [Server thread/INFO]: Stopping the server
+[12:40:13] [Server thread/INFO]: Starting shutdown process...
+[12:40:13] [Server thread/INFO]: Closing storage...
+[12:40:13] [Server thread/INFO]: Goodbye!
+[12:40:13] [Server thread/INFO]: Stopping server
+[12:40:13] [Server thread/INFO]: Saving players
+[12:40:13] [Server thread/INFO]: Saving worlds
+[12:40:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:40:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:40:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:40:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:40:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:40:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:40:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
