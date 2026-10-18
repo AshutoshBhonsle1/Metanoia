@@ -1,5 +1,5 @@
-[19:18:48] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.19.5
-[19:18:48] [main/INFO]: Loading 86 mods:
+[21:02:10] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.19.5
+[21:02:10] [main/INFO]: Loading 86 mods:
 	- create 6.0.8.1+build.1744-mc1.20.1
 	   |-- com_google_code_findbugs_jsr305 3.0.2
 	   |-- forgeconfigapiport 8.0.0
@@ -109,61 +109,58 @@
 	- minecraft 1.20.1
 	- vanilla-permissions 0.3.5+1.20.1
 	- worldedit 7.2.15+6463-5ca4dff
-[19:18:49] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/ashutosh/minecraft/studymaterial/Metanoia/libraries/net/fabricmc/sponge-mixin/0.17.4+mixin.0.8.7/sponge-mixin-0.17.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:18:49] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
-[19:18:49] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
-[19:18:49] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
-[19:18:49] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
-[19:18:49] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[19:18:49] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[19:18:49] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/client/gui/LargeMapScreen (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/client/gui/LargeMapScreen)
-[19:18:49] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.client.gui.LargeMapScreen was not found create.mixins.json:compat.ftbchunks.LargeMapScreenAccessor from mod create
-[19:18:49] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/client/gui/RegionMapPanel (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/client/gui/RegionMapPanel)
-[19:18:49] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.client.gui.RegionMapPanel was not found create.mixins.json:compat.ftbchunks.RegionMapPanelAccessor from mod create
-[19:18:49] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.5).
-[19:18:53] [main/INFO]: Create 6.0.8.1 initializing!
-[19:18:55] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@22adce39]
-[19:18:55] [main/INFO]: WorldEdit for Fabric (version 7.2.15+6463-5ca4dff) is loaded
-[19:18:55] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:18:55] [main/INFO]: Created 157 recipes which will be injected into the game
-[19:18:55] [main/INFO]: Created 0 tags which will be injected into the game
-[19:18:56] [main/INFO]: Loaded Fabric Permissions
-[19:18:56] [main/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[19:18:57] [main/INFO]: Loaded 22 recipes
-[19:18:57] [main/INFO]: Loaded 2421 advancements
-[19:18:58] [main/INFO]: Applied 111 biome modifications to 58 of 64 new biomes in 9.110 ms
-[19:18:58] [Server thread/INFO]:         __    
-[19:18:58] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.102
-[19:18:58] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.92.12+1.20.1
-[19:18:58] [Server thread/INFO]: 
-[19:18:58] [Server thread/INFO]: Loading configuration...
-[19:18:58] [Server thread/INFO]: Loading storage provider... [H2]
-[19:18:58] [Server thread/INFO]: Loading internal permission managers...
-[19:18:58] [Server thread/INFO]: Performing initial data load...
-[19:18:58] [Server thread/INFO]: Successfully enabled. (took 508ms)
-[19:18:58] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[19:18:58] [Server thread/INFO]: Loading properties
-[19:18:58] [Server thread/INFO]: Default game type: SURVIVAL
-[19:18:58] [Server thread/INFO]: Generating keypair
-[19:18:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:18:58] [Server thread/INFO]: Using epoll channel type
-[19:18:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:18:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:18:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:18:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:18:58] [Server thread/INFO]: Preparing level "world"
-[19:19:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:19:02] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[19:19:02] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[19:19:02] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:19:02] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:19:02] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[19:19:03] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[19:19:03] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[19:19:04] [Worker-Main-8/INFO]: Preparing spawn area: 31%
-[19:19:04] [Server thread/INFO]: Time elapsed: 3922 ms
-[19:19:04] [Server thread/INFO]: Done (5.940s)! For help, type "help"
-[19:19:20] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for Maerusen
+[21:02:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/ashutosh/minecraft/studymaterial/Metanoia/libraries/net/fabricmc/sponge-mixin/0.17.4+mixin.0.8.7/sponge-mixin-0.17.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:02:11] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[21:02:11] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[21:02:11] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[21:02:11] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[21:02:11] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[21:02:11] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[21:02:11] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/client/gui/LargeMapScreen (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/client/gui/LargeMapScreen)
+[21:02:11] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.client.gui.LargeMapScreen was not found create.mixins.json:compat.ftbchunks.LargeMapScreenAccessor from mod create
+[21:02:11] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/client/gui/RegionMapPanel (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/client/gui/RegionMapPanel)
+[21:02:11] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.client.gui.RegionMapPanel was not found create.mixins.json:compat.ftbchunks.RegionMapPanelAccessor from mod create
+[21:02:11] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.5).
+[21:02:15] [main/INFO]: Create 6.0.8.1 initializing!
+[21:02:16] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2b84cef1]
+[21:02:16] [main/INFO]: WorldEdit for Fabric (version 7.2.15+6463-5ca4dff) is loaded
+[21:02:17] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:02:17] [main/INFO]: Created 157 recipes which will be injected into the game
+[21:02:17] [main/INFO]: Created 0 tags which will be injected into the game
+[21:02:17] [main/INFO]: Loaded Fabric Permissions
+[21:02:17] [main/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[21:02:18] [main/INFO]: Loaded 22 recipes
+[21:02:18] [main/INFO]: Loaded 2421 advancements
+[21:02:19] [main/INFO]: Applied 111 biome modifications to 58 of 64 new biomes in 7.150 ms
+[21:02:19] [Server thread/INFO]:         __    
+[21:02:19] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.102
+[21:02:19] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.92.12+1.20.1
+[21:02:19] [Server thread/INFO]: 
+[21:02:19] [Server thread/INFO]: Loading configuration...
+[21:02:19] [Server thread/INFO]: Loading storage provider... [H2]
+[21:02:19] [Server thread/INFO]: Loading internal permission managers...
+[21:02:19] [Server thread/INFO]: Performing initial data load...
+[21:02:19] [Server thread/INFO]: Successfully enabled. (took 526ms)
+[21:02:19] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:02:19] [Server thread/INFO]: Loading properties
+[21:02:19] [Server thread/INFO]: Default game type: SURVIVAL
+[21:02:19] [Server thread/INFO]: Generating keypair
+[21:02:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:02:19] [Server thread/INFO]: Using epoll channel type
+[21:02:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:02:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:02:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:02:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:02:20] [Server thread/INFO]: Preparing level "world"
+[21:02:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:02:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:02:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:02:21] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:02:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:02:22] [Worker-Main-4/INFO]: Preparing spawn area: 33%
+[21:02:23] [Server thread/INFO]: Time elapsed: 2276 ms
+[21:02:23] [Server thread/INFO]: Done (3.161s)! For help, type "help"
+[21:06:31] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for Maerusen
 java.lang.NullPointerException: uuid
 	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
 	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
@@ -180,7 +177,7 @@ java.lang.NullPointerException: uuid
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
 	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[19:19:20] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for Maerusen
+[21:06:31] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for Maerusen
 java.lang.NullPointerException: uuid
 	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
 	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
@@ -197,7 +194,7 @@ java.lang.NullPointerException: uuid
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
 	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[19:19:20] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for Maerusen
+[21:06:31] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for Maerusen
 java.lang.NullPointerException: uuid
 	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
 	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
@@ -214,728 +211,26 @@ java.lang.NullPointerException: uuid
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
 	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[19:19:20] [Server thread/INFO]: Maerusen[/127.93.59.152:44869] logged in with entity id 150 at (-511.87456900936763, 179.0, -456.95658662521447)
-[19:19:20] [Server thread/INFO]: Maerusen joined the game
-[19:20:43] [Server thread/WARN]: Maerusen moved too quickly! 4.7801432885594295,0.0,-9.04709534644519
-[19:24:40] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[19:24:40] [Server thread/INFO]: Maerusen left the game
-[19:25:20] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for XFighter009
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[19:25:20] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for XFighter009
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[19:25:20] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for XFighter009
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[19:25:21] [Server thread/INFO]: XFighter009[/127.99.221.180:37493] logged in with entity id 916 at (-451.6662755569142, 72.0, -41.88087340894311)
-[19:25:21] [Server thread/INFO]: XFighter009 joined the game
-[19:29:32] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[19:29:32] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[19:29:32] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[19:29:32] [Server thread/INFO]: Maerusen[/127.93.59.152:50495] logged in with entity id 2170 at (-519.007394237676, 134.0, -408.42934333614835)
-[19:29:32] [Server thread/INFO]: Maerusen joined the game
-[19:45:14] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[19:48:04] [Server thread/INFO]: Villager class_1646['Villager'/2720, l='ServerLevel[world]', x=-319.50, y=69.06, z=74.34] died, message: 'Villager was slain by Vindicator'
-[19:55:53] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[20:01:13] [Server thread/INFO]: [Not Secure] <XFighter009> hey]
-[20:01:20] [Server thread/INFO]: [Not Secure] <Maerusen> ayoo
-[20:05:18] [Server thread/INFO]: Villager class_1646['Villager'/7861, l='ServerLevel[world]', x=-319.86, y=69.00, z=68.93] died, message: 'Villager was slain by Vindicator'
-[20:05:49] [Server thread/INFO]: Villager class_1646['Villager'/8167, l='ServerLevel[world]', x=-309.48, y=69.00, z=73.73] died, message: 'Villager was slain by Vindicator'
-[20:05:58] [Server thread/INFO]: Villager class_1646['Villager'/8186, l='ServerLevel[world]', x=-319.50, y=69.06, z=70.84] died, message: 'Villager was slain by Vindicator'
-[20:06:05] [Server thread/INFO]: Villager class_1646['Villager'/8227, l='ServerLevel[world]', x=-318.16, y=69.06, z=69.50] died, message: 'Villager was slain by Vindicator'
-[20:06:55] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[20:06:57] [Server thread/INFO]: Villager class_1646['Villager'/8445, l='ServerLevel[world]', x=-314.86, y=69.00, z=67.51] died, message: 'Villager was slain by XFighter009'
-[20:10:20] [Server thread/INFO]: [Not Secure] <XFighter009> hey phenias
-[20:10:27] [Server thread/INFO]: [Not Secure] <Maerusen> kya kar rhe ho
-[20:11:10] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for XFighter009
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[20:11:10] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for XFighter009
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[20:11:10] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for XFighter009
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[20:11:11] [Server thread/INFO]: XFighter009 lost connection: You logged in from another location
-[20:11:11] [Server thread/INFO]: XFighter009 left the game
-[20:11:11] [Server thread/INFO]: XFighter009[/127.99.221.180:33689] logged in with entity id 9383 at (-309.72813444367415, 73.0, 75.78065898067052)
-[20:11:11] [Server thread/INFO]: XFighter009 joined the game
-[20:14:27] [Server thread/INFO]: [Maerusen: Set the weather to clear]
-[20:15:45] [Server thread/INFO]: [Not Secure] <XFighter009> kay kartoes
-[20:15:54] [Server thread/INFO]: [Not Secure] <Maerusen> bulding bandhtoy
-[20:16:13] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for XFighter009
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[20:16:13] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for XFighter009
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[20:16:13] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for XFighter009
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[20:16:14] [Server thread/INFO]: XFighter009 lost connection: You logged in from another location
-[20:16:14] [Server thread/INFO]: XFighter009 left the game
-[20:16:14] [Server thread/INFO]: XFighter009[/127.99.221.180:53559] logged in with entity id 10435 at (-322.38173699227553, 69.0, 81.96610656891767)
-[20:16:14] [Server thread/INFO]: XFighter009 joined the game
-[20:16:25] [Server thread/INFO]: [Not Secure] <Maerusen> disconnect hora?
-[20:16:28] [Server thread/INFO]: [Not Secure] <XFighter009> yess
-[20:17:18] [Server thread/INFO]: [Maerusen: Set the weather to clear]
-[20:17:28] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[20:17:34] [Server thread/INFO]: [Not Secure] <XFighter009> chmaber banaya firse
-[20:17:40] [Server thread/INFO]: [Not Secure] <Maerusen> matlab?
-[20:17:49] [Server thread/INFO]: [Not Secure] <Maerusen> kidhr hai tu?
-[20:17:55] [Server thread/INFO]: [Not Secure] <XFighter009> vo fear chmaber
-[20:18:00] [Server thread/INFO]: [Not Secure] <XFighter009> chamber'
-[20:18:02] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[20:18:02] [Server thread/INFO]: Maerusen left the game
-[20:18:04] [Server thread/INFO]: [Not Secure] <XFighter009> gav
-[20:28:41] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for Sekiro
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[20:28:41] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for Sekiro
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[20:28:41] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for Sekiro
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[20:28:42] [Server thread/INFO]: Sekiro[/127.85.247.100:35377] logged in with entity id 12097 at (-617.1234958916226, 115.40782203076519, 36.06356304998649)
-[20:28:42] [Server thread/INFO]: Sekiro joined the game
-[20:28:42] [Server thread/INFO]: Sekiro lost connection: Disconnected
-[20:28:42] [Server thread/INFO]: Sekiro left the game
-[20:29:19] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for Sekiro
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[20:29:19] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for Sekiro
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[20:29:19] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for Sekiro
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[20:29:19] [Server thread/INFO]: Sekiro[/127.85.247.100:60813] logged in with entity id 12259 at (-617.1234958916226, 115.40782203076519, 36.06356304998649)
-[20:29:19] [Server thread/INFO]: Sekiro joined the game
-[20:29:37] [Server thread/INFO]: [Not Secure] <Sekiro> yo
-[20:30:09] [Server thread/INFO]: [Not Secure] <Sekiro> ye kya banaya hai
-[20:30:36] [Server thread/INFO]: [Not Secure] <XFighter009> tortuer chamber
-[20:30:41] [Server thread/INFO]: [Not Secure] <Sekiro> bruh
-[20:31:10] [Server thread/INFO]: [Not Secure] <XFighter009> sameep
-[20:31:13] [Server thread/INFO]: [Not Secure] <Sekiro> bol
-[20:31:27] [Server thread/INFO]: [Not Secure] <XFighter009> nhi bas confrim kara tha tu he hai kare
-[20:31:29] [Server thread/INFO]: [Not Secure] <XFighter009> karke*
-[20:31:31] [Server thread/INFO]: [Not Secure] <Sekiro> lmao
-[20:31:49] [Server thread/INFO]: [Sekiro: Set own game mode to Survival Mode]
-[20:32:09] [Server thread/INFO]: [Not Secure] <XFighter009> lode gamemode creative kar
-[20:32:29] [Server thread/INFO]: [Not Secure] <XFighter009> lmaooo
-[20:32:31] [Server thread/INFO]: Sekiro was slain by Enderman
-[20:32:43] [Server thread/INFO]: [Sekiro: Set own game mode to Creative Mode]
-[20:34:14] [Server thread/INFO]: [Sekiro: Set own game mode to Survival Mode]
-[20:34:16] [Server thread/INFO]: Sekiro has made the advancement [Sneak 100]
-[20:34:25] [Server thread/INFO]: Sekiro was slain by Warden
-[20:36:31] [Server thread/INFO]: [Sekiro: Set own game mode to Creative Mode]
-[20:36:57] [Server thread/INFO]: [Not Secure] <Sekiro> ye le
-[20:37:04] [Server thread/INFO]: [Not Secure] <Sekiro> aur right click kar
-[20:37:15] [Server thread/INFO]: [Not Secure] <XFighter009> bsdk
-[20:37:36] [Server thread/INFO]: [Not Secure] <XFighter009> de firse
-[20:38:00] [Server thread/INFO]: [Not Secure] <XFighter009> hein aya nhi mere pass
-[20:38:03] [Server thread/INFO]: [Not Secure] <XFighter009> bata kya th
-[20:38:08] [Server thread/INFO]: [Not Secure] <Sekiro> arre ye
-[20:38:12] [Server thread/INFO]: [Not Secure] <Sekiro> egg
-[20:38:16] [Server thread/INFO]: [Not Secure] <XFighter009> name
-[20:38:31] [Server thread/INFO]: [Not Secure] <Sekiro> warden spawn egg
-[20:39:01] [Server thread/INFO]: XFighter009 has made the advancement [Sneak 100]
-[20:39:17] [Server thread/INFO]: Villager class_1646['Villager'/15547, l='ServerLevel[world]', x=-348.44, y=68.00, z=52.18] died, message: 'Villager was slain by Warden'
-[20:39:21] [Server thread/INFO]: [Not Secure] <Sekiro> bacche ko maara
-[20:39:27] [Server thread/INFO]: Villager class_1646['Villager'/15548, l='ServerLevel[world]', x=-369.55, y=64.00, z=67.76] died, message: 'Villager was slain by Warden'
-[20:39:38] [Server thread/INFO]: Villager class_1646['Villager'/15546, l='ServerLevel[world]', x=-342.46, y=68.00, z=59.50] died, message: 'Villager was slain by Warden'
-[20:39:40] [Server thread/INFO]: [Not Secure] <XFighter009> pagal sand lagra hai ye
-[20:39:45] [Server thread/INFO]: [Not Secure] <XFighter009> saand*
-[20:39:49] [Server thread/INFO]: Villager class_1646['Villager'/15545, l='ServerLevel[world]', x=-351.46, y=68.00, z=60.51] died, message: 'Villager was slain by Warden'
-[20:39:57] [Server thread/INFO]: [Not Secure] <XFighter009> bc netgaya
-[20:39:58] [Server thread/INFO]: XFighter009 lost connection: Disconnected
-[20:39:58] [Server thread/INFO]: XFighter009 left the game
-[20:41:39] [Server thread/INFO]: Sekiro lost connection: Disconnected
-[20:41:39] [Server thread/INFO]: Sekiro left the game
-[21:08:14] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[21:08:14] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[21:08:14] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[21:08:14] [Server thread/INFO]: Maerusen[/127.93.59.152:59573] logged in with entity id 15869 at (-528.427833761865, 199.5220424958122, -491.37885379599925)
-[21:08:14] [Server thread/INFO]: Maerusen joined the game
-[21:08:21] [Server thread/INFO]: [Not Secure] <Maerusen> whos there
-[21:10:05] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[21:21:21] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[21:32:28] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[21:35:09] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for Sekiro
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[21:35:09] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for Sekiro
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[21:35:09] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for Sekiro
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[21:35:09] [Server thread/INFO]: Sekiro[/127.85.247.100:53165] logged in with entity id 17203 at (-364.6404100793526, 62.0, 45.00566587581945)
-[21:35:09] [Server thread/INFO]: Sekiro joined the game
-[21:35:26] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for XFighter009
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[21:35:26] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for XFighter009
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[21:35:26] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for XFighter009
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[21:35:26] [Server thread/INFO]: XFighter009[/127.99.221.180:52367] logged in with entity id 17551 at (-354.48805265236894, 72.53262608459386, 70.05708920668998)
-[21:35:26] [Server thread/INFO]: XFighter009 joined the game
-[21:35:35] [Server thread/INFO]: XFighter009 lost connection: Disconnected
-[21:35:35] [Server thread/INFO]: XFighter009 left the game
-[21:36:06] [Server thread/INFO]: [Not Secure] <Sekiro> where is this lil boy hiding
-[21:36:43] [Server thread/INFO]: [Not Secure] <Sekiro> drop me your co ords
-[21:36:50] [Server thread/INFO]: [Not Secure] <Sekiro> also i cant tp
-[21:39:31] [Server thread/INFO]: Sekiro has completed the challenge [Cover Me in Debris]
-[21:39:51] [Server thread/INFO]: [Sekiro: Set own game mode to Survival Mode]
-[21:41:02] [Server thread/INFO]: [Sekiro: Set own game mode to Creative Mode]
-[21:42:28] [Server thread/INFO]: [Not Secure] <Sekiro> wya
-[21:42:31] [Server thread/INFO]: [Not Secure] <Sekiro> ashu
-[21:44:42] [Server thread/INFO]: [Sekiro: Set own game mode to Survival Mode]
-[21:44:45] [Server thread/INFO]: Sekiro fell from a high place
-[21:44:54] [Server thread/INFO]: [Sekiro: Set own game mode to Creative Mode]
-[21:45:35] [Server thread/INFO]: [Not Secure] <Sekiro> bol na yaa
-[21:48:25] [Server thread/INFO]: [Not Secure] <Sekiro> boooo
-[21:48:35] [Server thread/INFO]: [Not Secure] <Maerusen> I AM NPC
-[21:48:46] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[21:48:53] [Server thread/INFO]: [Not Secure] <Sekiro> did i scare you
-[21:48:58] [Server thread/INFO]: [Not Secure] <Sekiro> look cool
-[21:49:02] [Server thread/INFO]: [Not Secure] <Sekiro> nice monster lair
-[21:49:30] [Server thread/INFO]: Sekiro has made the advancement [Monster Hunter]
-[21:51:03] [Server thread/INFO]: [Not Secure] <Sekiro> watch this
-[21:51:11] [Server thread/INFO]: [Sekiro: Set own game mode to Survival Mode]
-[21:52:15] [Server thread/INFO]: Sekiro was slain by Zombie
-[21:52:42] [Server thread/INFO]: Sekiro lost connection: Disconnected
-[21:52:42] [Server thread/INFO]: Sekiro left the game
-[21:56:01] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[21:56:01] [Server thread/INFO]: Maerusen left the game
-[21:57:31] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[21:57:31] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[21:57:31] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[21:57:32] [Server thread/INFO]: Maerusen[/127.93.59.152:40583] logged in with entity id 29174 at (-488.5384646194804, 183.59228654161154, -481.6679082003875)
-[21:57:32] [Server thread/INFO]: Maerusen joined the game
-[22:07:02] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[22:07:02] [Server thread/INFO]: Maerusen left the game
-[22:18:00] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[22:18:00] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[22:18:00] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for Maerusen
-java.lang.NullPointerException: uuid
-	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
-	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-0.3.1.jar:?]
-	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:51) ~[vanilla-permissions-0.3.5+1.20.1.jar:?]
-	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.15+0caff8d077-9edf2eb9d6317000.jar:?]
-	at net.minecraft.class_3248.redirect$zjm000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[22:18:00] [Server thread/INFO]: Maerusen[/127.93.59.152:52635] logged in with entity id 30143 at (-531.0663683810567, 187.48707316875925, -423.3973825636941)
-[22:18:00] [Server thread/INFO]: Maerusen joined the game
-[22:18:21] [Server thread/INFO]: [Maerusen: Set the weather to clear]
-[22:20:58] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[22:31:30] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[22:44:35] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[22:54:57] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[23:08:55] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[23:13:35] [Server thread/INFO]: [Maerusen: Set the time to 13000]
-[23:32:23] [Server thread/WARN]: Maerusen moved too quickly! 7.719509878286317,0.0,6.922876639794026
-[23:32:55] [Server thread/INFO]: [Maerusen: Set the time to 13000]
-[23:40:32] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[23:48:22] [Server thread/INFO]: [Maerusen: Set the time to 13000]
-[23:54:53] [Server thread/INFO]: [Maerusen: Set the time to 1000]
-[23:55:51] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[23:55:51] [Server thread/INFO]: Maerusen left the game
-[23:56:07] [Server thread/INFO]: Stopping the server
-[23:56:08] [Server thread/INFO]: Starting shutdown process...
-[23:56:08] [Server thread/INFO]: Closing storage...
-[23:56:08] [Server thread/INFO]: Goodbye!
-[23:56:08] [Server thread/INFO]: Stopping server
-[23:56:08] [Server thread/INFO]: Saving players
-[23:56:08] [Server thread/INFO]: Saving worlds
-[23:56:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:56:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:56:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:56:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:56:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:56:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:56:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:06:31] [Server thread/INFO]: Maerusen[/127.93.59.152:43349] logged in with entity id 133 at (-514.4530143375423, 201.22119891614227, -467.6026709885009)
+[21:06:31] [Server thread/INFO]: Maerusen joined the game
+[21:19:48] [Server thread/WARN]: Maerusen moved too quickly! 1.1252116684667044,0.008771626946952438,-10.227527427008738
+[21:20:12] [Server thread/WARN]: Maerusen moved too quickly! 0.0,10.124265739015698,0.0
+[21:20:51] [Server thread/WARN]: Maerusen moved too quickly! 1.296637600146937,-2.8181688159839666,-9.711123683876622
+[21:21:33] [Server thread/WARN]: Maerusen moved too quickly! 1.9148694192036828,0.020530508874941233,10.109723126001256
+[21:25:25] [Server thread/WARN]: Maerusen moved too quickly! -10.409233974005474,0.0,-0.9060270416320009
+[22:00:23] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[22:00:23] [Server thread/INFO]: Maerusen left the game
+[22:00:33] [Server thread/INFO]: Stopping the server
+[22:00:33] [Server thread/INFO]: Starting shutdown process...
+[22:00:33] [Server thread/INFO]: Closing storage...
+[22:00:33] [Server thread/INFO]: Goodbye!
+[22:00:33] [Server thread/INFO]: Stopping server
+[22:00:33] [Server thread/INFO]: Saving players
+[22:00:33] [Server thread/INFO]: Saving worlds
+[22:00:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:00:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:00:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
