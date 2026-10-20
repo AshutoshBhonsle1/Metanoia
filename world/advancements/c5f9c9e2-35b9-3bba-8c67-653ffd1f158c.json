@@ -24,12 +24,6 @@
     },
     "done": false
   },
-  "create:root": {
-    "criteria": {
-      "0": "2026-10-08 21:22:05 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2026-10-09 20:21:44 +0200"
@@ -108,66 +102,6 @@
     },
     "done": true
   },
-  "create:track_0": {
-    "criteria": {
-      "0": "2026-10-09 20:35:54 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/track_station": {
-    "criteria": {
-      "has_item": "2026-10-09 21:03:47 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/train_door": {
-    "criteria": {
-      "has_item": "2026-10-09 21:03:47 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/track_signal": {
-    "criteria": {
-      "has_item": "2026-10-09 21:03:47 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/controls": {
-    "criteria": {
-      "has_item": "2026-10-09 21:03:47 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
-    "criteria": {
-      "has_item": "2026-10-09 21:03:47 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/track_observer": {
-    "criteria": {
-      "has_item": "2026-10-09 21:03:47 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/train_trapdoor": {
-    "criteria": {
-      "has_item": "2026-10-09 21:03:47 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/schedule_clear": {
-    "criteria": {
-      "has_item": "2026-10-09 21:04:07 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/industrial_iron_window": {
-    "criteria": {
-      "has_ingredient": "2026-10-09 21:19:19 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2026-10-09 21:21:27 +0200"
@@ -228,135 +162,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/oak_window": {
-    "criteria": {
-      "has_ingredient": "2026-10-09 21:21:27 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2026-10-09 21:21:27 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/blue_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/pink_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2026-10-09 21:29:33 +0200"
-    },
-    "done": true
-  },
-  "create:super_glue": {
-    "criteria": {
-      "0": "2026-10-09 21:32:56 +0200"
-    },
-    "done": true
-  },
-  "create:train": {
-    "criteria": {
-      "0": "2026-10-09 21:33:34 +0200"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2026-10-10 11:21:00 +0200"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
-    "criteria": {
-      "has_item": "2026-10-10 11:24:35 +0200"
     },
     "done": true
   },
@@ -372,30 +180,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2026-10-10 11:25:04 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2026-10-10 11:25:04 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2026-10-10 11:25:04 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
-    "criteria": {
-      "has_item": "2026-10-10 11:25:04 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2026-10-10 11:25:04 +0200"
@@ -405,12 +189,6 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2026-10-10 11:25:58 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
-    "criteria": {
-      "has_item": "2026-10-10 12:02:38 +0200"
     },
     "done": true
   },
@@ -685,12 +463,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/spruce_window": {
-    "criteria": {
-      "has_ingredient": "2026-10-12 11:39:23 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2026-10-12 11:39:23 +0200"
@@ -724,12 +496,6 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2026-10-12 11:39:23 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/birch_window": {
-    "criteria": {
-      "has_ingredient": "2026-10-12 12:08:13 +0200"
     },
     "done": true
   },
@@ -898,12 +664,6 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2026-10-12 16:56:37 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crimson_window": {
-    "criteria": {
-      "has_ingredient": "2026-10-12 16:56:37 +0200"
     },
     "done": true
   },
@@ -1114,6 +874,48 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2026-10-20 15:39:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2026-10-20 22:04:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2026-10-20 22:04:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2026-10-20 22:04:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2026-10-20 22:04:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2026-10-20 22:04:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2026-10-20 22:04:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2026-10-20 22:04:09 +0200"
     },
     "done": true
   },
