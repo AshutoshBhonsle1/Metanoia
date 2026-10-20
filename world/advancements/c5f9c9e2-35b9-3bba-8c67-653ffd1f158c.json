@@ -524,7 +524,8 @@
       "minecraft:phantom": "2026-10-11 23:26:03 +0200",
       "minecraft:enderman": "2026-10-11 23:25:11 +0200",
       "minecraft:stray": "2026-10-18 21:24:24 +0200",
-      "minecraft:zombie": "2026-10-11 23:23:39 +0200"
+      "minecraft:zombie": "2026-10-11 23:23:39 +0200",
+      "minecraft:zombie_villager": "2026-10-20 15:56:28 +0200"
     },
     "done": false
   },
@@ -1107,6 +1108,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2026-10-12 18:38:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-10-20 15:39:41 +0200"
     },
     "done": true
   },
